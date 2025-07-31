@@ -14,7 +14,5 @@
 
 Technology isn’t just code; it’s the bridge to humanity’s next evolution.
 
----
-
 *“The only way to discover the limits of the possible is to go beyond them into the impossible.”*  
 — Arthur C. Clarke
