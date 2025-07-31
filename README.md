@@ -1,4 +1,4 @@
-# Hi there, I am Bari  
+# Hi there, I am Bari 🙋‍♂️
 
 **MERN Stack Web Developer | Visionary | AI Enthusiast**
 
