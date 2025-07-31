@@ -1,14 +1,12 @@
 # Hi there, I am Bari  
 
-**MERN Stack Web Developer | Visionary | AI Enthusiast **
+**MERN Stack Web Developer | Visionary | AI Enthusiast**
 
 ## 🌌 About Me
 
 - **Interests**: AI, machine learning, consciousness, history, religions, sci-fi movies, and anime.
 - **Skills**: HTML, CSS, JavaScript, TailwindCSS, DaisyUI, NodeJS, MongoDB, ExpressJS, ReactJS.
 - **Dream**: To one day build an AI that doesn’t just follow instructions but creates its own path, transforming how we understand existence.
-
----
 
 ## 🧠 My Philosophy
 
