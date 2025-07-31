@@ -6,7 +6,7 @@
 
 - **Interests**: AI, machine learning, consciousness, history, religions, sci-fi movies, and anime.
 - **Skills**: HTML, CSS, JavaScript, TailwindCSS, DaisyUI, NodeJS, MongoDB, ExpressJS, ReactJS.
-- **Dream**: To one day build an AI that doesn’t just follow instructions but creates its own path, transforming how we understand existence.
+- **Dream**: To one day be a part of building an AI that doesn’t just follow instructions but creates its own path, transforming how we understand existence.
 
 ## 🧠 My Philosophy
 
