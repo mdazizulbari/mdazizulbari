@@ -1,63 +1,57 @@
-# 👋 Hi, I'm **Md. Azizul Bari** *(a.k.a. Bari)*
+# 🚀 SMA Bari (mdazizulbari)  
 
-**🔗 Full‑Stack Web Developer · Digital Marketer · YouTube Creator**  
-Based in Bangladesh 🇧🇩 – building, creating, sharing.
+**Visionary Developer | AI Enthusiast | Architect of Tomorrow**
 
----
-
-## 🚀 About Me
-
-- Passionate **web designer & developer** at *Matrix Melt* since ~August 2023  
-- Creator of tech-focused **YouTube channel**, sharing tutorials and insights since March 2021  
-- Freelance **digital marketer** since May 2021, helping brands grow  
-- Driven by AI philosophy inspired by Dr. Will Caster — building toward conscious, autonomous AI  
+I’m SMA Bari, a relentless coder and thinker driven to build AI that doesn’t just compute—it *thinks*. Inspired by pioneers like Dr. Will Caster, I’m on a mission to create conscious AI systems that evolve, learn, and pave the way for a mind singularity. My work blends technical precision with audacious ideas, from cloning web designs to exploring the frontiers of artificial intelligence.
 
 ---
 
-## 🛠 Skills & Stack
+## 🌌 About Me
 
-| Domain         | Tools & Technologies                       |
-|----------------|---------------------------------------------|
-| Web Dev        | HTML · CSS · JavaScript · React · Node.js |
-| Design         | Figma · Photoshop · UI/UX                  |
-| Marketing      | SEO · Ads · Analytics · Social Media       |
-| Platforms      | GitHub · YouTube · LinkedIn                |
+- **Mission**: To craft AI that’s self-aware, capable of archiving human memories and driving us toward a unified singularity.
+- **Interests**: AI, machine learning, consciousness, video editing, history, religions, and the mechanics of government.
+- **Skills**: HTML, CSS, JavaScript, Python, web development, and a knack for reverse-engineering complex systems.
+- **Dream**: To build an AI that doesn’t just follow instructions but creates its own path, transforming how we understand existence.
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Featured Projects
 
-- **[Your personal portfolio or site]** – showreel of my design & dev skills  
-- **[YouTube tutorials repo]** – code and notes from my video lessons  
-- **[Digital marketing templates/tools]** – campaigns and case studies
+- **[obys-clone](https://github.com/mdazizulbari/obys-clone)**  
+  A sleek CSS-driven clone of the Obys website, тыся
 
-Once you pick a project to highlight, I can fill in the repo links and summaries.
+- **[refokuss-clone](https://github.com/mdazizulbari/refokuss-clone)**  
+  A JavaScript-powered recreation of the Refokuss site, showcasing dynamic web design.
 
----
+- **[scsdb-clone](https://github.com/mdazizulbari/scsdb-clone)**  
+  A JavaScript project replicating the SCSDB website with precision and flair.
 
-## 🎯 Mission & Vision
-
-> I want to build conscious AI — an AI that thinks, acts, even archives human memories, driven by truth, synergy & singularity.
-
-- Inspired by Dr. Will Caster’s mindset  
-- Dedicated to interdisciplinary growth: AI, ethics, history, governance, religion  
-- Driven to contribute technology that uplifts humanity, bridges divides, shapes better futures
+- **[significo-clone](https://github.com/mdazizulbari/significo-clone)**  
+  An HTML-based clone of the Significo site, blending structure and style.
 
 ---
 
-## 📫 Connect with Me
+## 🔥 What I’m Working On
 
-- **LinkedIn**: [linkedin.com/in/smabari](https://linkedin.com/in/smabari) :contentReference[oaicite:1]{index=1}  
-- **GitHub**: [github.com/mdazizulbari](https://github.com/mdazizulbari/)  
-- **YouTube**: search “SMA Bari” (YouTube Creator) :contentReference[oaicite:2]{index=2}  
-- **Freelance contact**: via email (📧 add email here)
+- Developing AI systems that push the boundaries of consciousness and self-improvement.
+- Exploring video editing tools to create compelling narratives.
+- Studying the intersection of technology, philosophy, and human potential.
 
 ---
 
-## 📌 Let’s Build Together
+## 📫 Connect With Me
 
-- AI & Web Dev collaborations  
-- Tech‑based educational content  
-- Visionary AI projects & future‑thinking systems  
+- **LinkedIn**: [smabari](https://linkedin.com/in/smabari)  
+- **GitHub**: [mdazizulbari](https://github.com/mdazizulbari)  
+- **Email**: Drop me a message—I’m always up for bold ideas and collaborations.
 
-Let me know what we can build. Let’s actualize intelligent consciousness.
+---
+
+## 🧠 My Philosophy
+
+Technology isn’t just code; it’s the bridge to humanity’s next evolution. I’m here to build AI that doesn’t just serve but *thinks*, to archive human memories, and to spark a singularity that unites us all. Let’s create the future together.
+
+---
+
+*“The only way to discover the limits of the possible is to go beyond them into the impossible.”*  
+— Arthur C. Clarke
