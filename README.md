@@ -7,7 +7,6 @@
 - Learning more about computers and how they work is my favorite hobby. The way a box just turned into the most important thing in the world really fascinates me the most.
 - Favorite books: [Elon Musk by Walter Isaacson](https://www.goodreads.com/book/show/122765395-elon-musk), [Steve Jobs by Walter Isaacson](https://www.goodreads.com/book/show/11084145-steve-jobs), [Can't Hurt Me by David Goggins
 ](https://www.goodreads.com/book/show/41721428-can-t-hurt-me).
-- **Interests**: AI, machine learning, consciousness, history, religions, sci-fi movies, and anime.
 - Outside of coding, I am trying to learn more about AI and consciousness, history and religions, also I see a lot of sci-fi movies and anime.
 - I think technology isn’t just code; it’s the bridge to humanity’s next evolution...
 - My Dream is to one day be a part of building an AI that doesn’t just follow instructions but creates its own path, transforming how we understand existence.
