@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I am Bari 🙋‍♂️ and here is my favourite place in the world 👇
+# Hi there, I am Bari 🙋‍♂️
+**MERN Stack Web Developer | Visionary | AI Enthusiast**
 
 <image src="https://raw.githubusercontent.com/mdazizulbari/mdazizulbari/refs/heads/main/banner.png" alt="" width="100%">
 
-**MERN Stack Web Developer | Visionary | AI Enthusiast**
 
 </div>
 
