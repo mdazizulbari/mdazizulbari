@@ -4,10 +4,13 @@
 
 ## 🌌 About Me
 
+- Learning more about computers and how they work is my favorite hobby. The way a box just turned into the most important thing in the world really fascinates me the most.
+- Favorite books: [Elon Musk by Walter Isaacson](https://www.goodreads.com/book/show/122765395-elon-musk), [Steve Jobs by Walter Isaacson](https://www.goodreads.com/book/show/11084145-steve-jobs), [Can't Hurt Me by David Goggins
+](https://www.goodreads.com/book/show/41721428-can-t-hurt-me).
 - **Interests**: AI, machine learning, consciousness, history, religions, sci-fi movies, and anime.
-- **Dream**: To one day be a part of building an AI that doesn’t just follow instructions but creates its own path, transforming how we understand existence.
-
-I think technology isn’t just code; it’s the bridge to humanity’s next evolution...
+- I think technology isn’t just code; it’s the bridge to humanity’s next evolution...
+- My Dream is to one day be a part of building an AI that doesn’t just follow instructions but creates its own path, transforming how we understand existence.
+- Fun fact: I love chocolate more than coffee, even as a developer.
 
 *“The only way to discover the limits of the possible is to go beyond them into the impossible.”*  
 — Arthur C. Clarke
