@@ -1,9 +1,12 @@
 <div align="center">
 
-# Hi there, I am Bari 🙋‍♂️
-**MERN Stack Web Developer | Visionary | AI Enthusiast**
+# Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 <image src="https://raw.githubusercontent.com/mdazizulbari/mdazizulbari/refs/heads/main/banner.png" alt="" width="100%">
+
+  <!-- Typing Animation -->
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&height=40&lines=Hi+there+👋,+I'm+SMA+Bari;Full+Stack+Web+Developer;MERN+Stack+Enthusiast👐;Always+Learning,+Always+Building+🧠)
+
 
 </div>
 
