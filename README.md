@@ -5,7 +5,6 @@
 
 <image src="https://raw.githubusercontent.com/mdazizulbari/mdazizulbari/refs/heads/main/banner.png" alt="" width="100%">
 
-
 </div>
 
 ## 🌌 About Me
@@ -13,7 +12,7 @@
 - Learning more about computers and how they work is my favorite hobby. The way a just box turned into the most important thing in the world really fascinates me the most.
 - Favourite books: [Elon Musk by Walter Isaacson](https://www.goodreads.com/book/show/122765395-elon-musk), [Steve Jobs by Walter Isaacson](https://www.goodreads.com/book/show/11084145-steve-jobs), [Can't Hurt Me by David Goggins
 ](https://www.goodreads.com/book/show/41721428-can-t-hurt-me).
-- Outside of coding, I enjoy browsing about AI, consciousness, history, religions, and I watch a lot of sci-fi movies and anime.
+- Outside of coding, I enjoy browsing about AI, consciousness, history, and religions. I watch a lot of sci-fi movies and anime. I also enjoy long distance running to make my body prepared to sit for long hours.
 - Fun fact: I love chocolate more than coffee, even as a developer.
 
 *“The only way to discover the limits of the possible is to go beyond them into the impossible.”*  
@@ -22,6 +21,8 @@
 ## Current Activities
 
 - Exploring NextJS
+- Working on a parcel management project
+- Preparing for a half-marathon
 
 ## 🛠️ Skills
 
