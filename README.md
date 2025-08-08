@@ -33,7 +33,7 @@
 [<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="3.5%"/>](https://nodejs.org/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/express-js.png" width="3.5%"/>](https://expressjs.com/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="3.5%"/>](https://www.mongodb.com/)
 
 **Design & Media**  
-[<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" width="3.5%"/>](https://www.adobe.com/products/illustrator.html) &nbsp; [<img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="3.5%"/>](https://www.adobe.com/products/photoshop.html) &nbsp; [<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" width="3.5%"/>](https://www.adobe.com/products/premiere.html) &nbsp; [<img src="https://img.icons8.com/color/48/000000/ffmpeg.png" width="3.5%"/>](https://ffmpeg.org/) &nbsp; [<img src="https://img.icons8.com/?size=100&id=98137&format=png&color=000000" width="3.5%"/>](https://obsproject.com/)
+[<img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" width="3.5%"/>](https://www.adobe.com/products/illustrator.html) &nbsp; [<img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="3.5%"/>](https://www.adobe.com/products/photoshop.html) &nbsp; [<img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" width="3.5%"/>](https://www.adobe.com/products/premiere.html) &nbsp; [<img src="https://img.icons8.com/color/48/000000/ffmpeg.png" width="3.5%"/>](https://ffmpeg.org/) &nbsp; [<img src="https://img.icons8.com/?size=100&id=VNcC1qMo5Drr&format=png&color=000000" width="3.5%"/>](https://obsproject.com/)
 
 **Productivity & Systems**  
 [<img src="https://img.icons8.com/color/48/000000/wordpress.png" width="3.5%"/>](https://wordpress.org/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/notion.png" width="3.5%"/>](https://www.notion.so/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linux.png" width="3.5%"/>](https://www.linux.org/) &nbsp; [<img src="https://clockify.me/assets/images/favicon.ico" width="3.5%"/>](https://clockify.me/) &nbsp; [<img src="https://img.icons8.com/?size=100&id=LyU6IwWaREPI&format=png&color=000000" width="3.5%"/>](https://www.freecodecamp.org/news/vim-key-bindings-reference/)
@@ -42,8 +42,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mdazizulbari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="47%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazizulbari&theme=radical&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdazizulbari&layout=compact&theme=radical&hide_border=true&langs_count=6" width="47%" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdazizulbari&layout=compact&theme=radical&hide_border=true&langs_count=8" width="47%" />
-<img src="https://github-profile-trophy.vercel.app/?username=mdazizulbari&theme=radical&no-frame=true&no-bg=true&column=4" width="47%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mdazizulbari&theme=radical&no-frame=true&no-bg=true&column=8" width="100%" />
 </div>
