@@ -47,5 +47,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazizulbari&theme=gotham&hide_border=true" width="47%" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdazizulbari&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="47%" />
-<img src="https://github-trophies.vercel.app/?username=mdazizulbari&theme=matrix&no-frame=true&no-bg=true&column=4" width="47%" />
+<img src="https://github-trophies.vercel.app/?username=mdazizulbari&theme=onestar&no-frame=true&no-bg=true&column=4" width="47%" />
 </div>
