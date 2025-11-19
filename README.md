@@ -24,8 +24,8 @@
 ## ⏰ Current Activities
 
 - Exploring NextJS
-- Working on a parcel management project
-- Preparing for a half-marathon
+- In the bootcamp of [ThreeJS Journey](https://threejs-journey.com/) 
+- In the bootcamp [Gen AI & Data Science Bootcamp 2.0 from CodeBasics](https://codebasics.io/bootcamps/ai-data-science-bootcamp-with-virtual-internship)
 
 # 🛠️ Skills
 
